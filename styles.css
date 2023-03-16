@@ -37,7 +37,7 @@ body {
 }
 
 .code-box blockquote{
-    font-size: 26px;
+    font-size: 1em;
     min-height: 110px;
 }
 .code-box blockquote::before, .code-box blockquote::after{
